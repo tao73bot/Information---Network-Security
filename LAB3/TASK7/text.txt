@@ -1,0 +1,9 @@
+main text: Hello Taohid
+
+md5 hash main: 'cfdc61007f2897e4d35beaad3bcd7cef'
+md5 hash corrupt: 'e76ac8434910facbc3d7a25afc94e1cf'
+match: 2
+
+sha256 hash main: 'cab07c9195b308dc0de4f3babd36489a30f3d7296adca1e33c6938aa80fa1379'
+sha256 hash corrupt: '496da962b48ba84b6116b307e6d62e110a49607f5991ef7b95a31f520759c89b'
+match: 6

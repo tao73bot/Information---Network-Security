@@ -1,0 +1,8 @@
+Hello Taohid
+
+SHA1(text.txt)= 51fcd0c767942b1a49babee1efdca0b122eff539
+
+MD5(text.txt)= 232287a2393f52d46cedfe9b0fa2ced3
+
+SHA2-256(text.txt)= cab07c9195b308dc0de4f3babd36489a30f3d7296adca1e33c6938aa80fa1379
+

@@ -1,0 +1,8 @@
+Hello Taohid
+
+HMAC-SHA1(text.txt)= 85c50f78f1ebdc639e6834d08a11c58bdecc1871
+
+HMAC-MD5(text.txt)= 43fb4bf9e89ae1beeb5f4a5fd19676ed
+
+HMAC-SHA2-256(text.txt)= 9227b234f4abbb87968806bb97cb5a3e7ea63be0a92054b44098f60286a07663
+
